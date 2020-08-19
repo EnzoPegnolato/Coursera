@@ -1,7 +1,8 @@
-"""Define a classe Triangulo cujo construtor recebe 3 valores 
-inteiros correspondentes aos lados a, b e c de um triângulo.
-A classe triângulo também possui um método perimetro, que não 
-recebe parâmetros e devolve um valor inteiro correspondente ao perímetro do triângulo."""
+""" Define a classe Triangulo cujo construtor recebe 3 valores 
+    inteiros correspondentes aos lados a, b e c de um triângulo.
+    Métodos dentro da classe: 
+    * def perimetro() = Não recebe parâmetros e devolve um valor inteiro correspondente ao perímetro do triângulo"""
+  
 
 
 class Triangulo():
