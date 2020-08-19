@@ -5,11 +5,8 @@
     * def tipo_lado() = Não recebe parâmetros e devolve uma string dizendo se o triângulo é isósceles (dois lados iguais)  
       equilátero (todos os lados iguais) e escaleno (todos os lados diferentes).
     * def retangulo() = Não recebe parâmetro e retorna se o triângulo é retângulo ou não.
-    * def semelhantes() = Recebe um objeto do tipo Triangulo como parâmetro e verifica se o triângulo atual é semelhante ao triângulo passado como parâmetro.
-  
-  
-  
-"""
+    * def semelhantes() = Recebe um objeto do tipo Triangulo como parâmetro e verifica se o triângulo atual é semelhante ao triângulo passado como parâmetro."""
+
 
 class Triangulo():
     def __init__(self,a,b,c):
