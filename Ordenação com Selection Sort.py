@@ -1,5 +1,5 @@
 """A função ordena(lista) recebe uma lista com números inteiros como parâmetro 
-e devolve esta lista ordenada em ordem crescente sem usar métodos prontos como sort ou sorted.
+e devolve esta lista ordenada em ordem crescente sem usar métodos prontos como sort ou sorted."""
 
 def ordena(lista):
 
